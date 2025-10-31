@@ -48,7 +48,7 @@ The dashboard allows dynamic filtering and visualization based on:
 
 ---
 
-### 💡 How to Use
+### How to Use
 1. Download the `.pbix` file from this repository.  
 2. Open it in **Power BI Desktop (version 2024 or later)**.  
 3. Use the **segment slicer** at the top to filter KPIs dynamically.  
@@ -58,8 +58,8 @@ The dashboard allows dynamic filtering and visualization based on:
 
 ### Dashboard Preview
 
-`![Dashboard Preview](images/dashboard_preview.JPG)`
-`![Dashboard Preview](images/database_preview.JPG)`
+`![Dashboard Preview](images/dashboard_preview.jpg)`
+`![Dashboard Preview](images/database_preview.jpg)`
 
 ---
 

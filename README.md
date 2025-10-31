@@ -58,8 +58,8 @@ The dashboard allows dynamic filtering and visualization based on:
 
 ### Dashboard Preview
 
-`![Dashboard Preview](images/dashboard_preview.jpg)`
-`![Dashboard Preview](images/database_preview.jpg)`
+`![Dashboard Preview](images/dashboard_preview.JPG)`
+`![Dashboard Preview](images/database_preview.JPG)`
 
 ---
 

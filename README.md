@@ -58,8 +58,8 @@ The dashboard allows dynamic filtering and visualization based on:
 
 ### Dashboard Preview
 
-![Dashboard Preview](https://raw.githubusercontent.com/<username>/<repo>/<branch>/images/dashboard_preview.jpg)
-![Database Preview](https://raw.githubusercontent.com/<username>/<repo>/<branch>/images/database_preview.jpg)
+![Dashboard Preview](https://raw.PatienceKeter.com/<username>/<repo>/<branch>/images/dashboard_preview.jpg)
+![Database Preview](https://raw.PatienceKeter.com/<username>/<repo>/<branch>/images/database_preview.jpg)
 
 ---
 
